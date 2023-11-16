@@ -271,7 +271,7 @@ export class TotalCommitTrophy extends Trophy {
     const rankConditions = [
       new RankCondition(
         RANK.SSS,
-        "God Committer",
+        "Superior Committer",
         4000,
       ),
       new RankCondition(
@@ -371,7 +371,7 @@ export class TotalIssueTrophy extends Trophy {
     const rankConditions = [
       new RankCondition(
         RANK.SSS,
-        "God Issuer",
+        "Superior Issuer",
         1000,
       ),
       new RankCondition(
@@ -421,7 +421,7 @@ export class TotalPullRequestTrophy extends Trophy {
     const rankConditions = [
       new RankCondition(
         RANK.SSS,
-        "God Puller",
+        "Superior Puller",
         1000,
       ),
       new RankCondition(
@@ -471,7 +471,7 @@ export class TotalRepositoryTrophy extends Trophy {
     const rankConditions = [
       new RankCondition(
         RANK.SSS,
-        "God Repo Creator",
+        "Superior Repo Creator",
         100,
       ),
       new RankCondition(
